@@ -113,7 +113,7 @@
         </li>
         <li>
           <p><xpath>elmn[@att='val']</xpath> indicates an element <xpath>elmn</xpath> that has an
-            attribute <xpath>@att</xpath> with value <code>val</code>. </p>
+            attribute <xpath>att</xpath> with value <code>val</code>. </p>
         </li>
       </ul>
     </section>
