@@ -130,7 +130,7 @@
         generated appropriately, namely with an actual time stamp in this case, and not the string
           <q>{ timestamp }</q>. In display, these values should also be shown with special
         formatting as shown here.</p>
-      <p>Examples also indicate unspecified content using a simple <q> … </q> (elision) character,
+      <p>Examples also indicate unspecified content using a simple <q> … </q> (ellipsis) character,
         typically for more verbose chunks of target data whose production is specified elsewhere in
         the document.</p>
     </section>
